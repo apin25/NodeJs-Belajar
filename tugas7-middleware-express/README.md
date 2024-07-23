@@ -1,0 +1,1 @@
+kalau mau run tinggal npm start
