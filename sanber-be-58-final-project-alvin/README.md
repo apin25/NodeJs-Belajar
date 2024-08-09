@@ -5,11 +5,11 @@
 2. POST - http://localhost:3000/api/orders
 
 ## LINK GITHUB YANG DEPLOY
-```https://github.com/apin25/proyek-akhir-alvin```
+https://github.com/apin25/proyek-akhir-alvin
 
 ## LINK DEPLOY VERCEL
-```https://proyek-akhir-alvin.vercel.app/```
+https://proyek-akhir-alvin.vercel.app/
 
-GET - ```https://proyek-akhir-alvin.vercel.app/api/orders```
+GET - https://proyek-akhir-alvin.vercel.app/api/orders
 
-POST - ```https://proyek-akhir-alvin.vercel.app/api/orders```
+POST - https://proyek-akhir-alvin.vercel.app/api/orders
